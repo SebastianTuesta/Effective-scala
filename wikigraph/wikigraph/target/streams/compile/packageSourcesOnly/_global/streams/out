@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /workspaces/effective-scala/wikigraph/wikigraph/target/scala-3.3.0/effective-scala-wikigraph_3-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Articles.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Articles.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Async.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Async.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Errors.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Errors.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Wikigraph.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Wikigraph.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/Wikipedia.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Wikipedia.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/WikiResult.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/WikiResult.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/implementations/InMemory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/implementations/InMemory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph/implementations/Sqlite.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/implementations/Sqlite.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

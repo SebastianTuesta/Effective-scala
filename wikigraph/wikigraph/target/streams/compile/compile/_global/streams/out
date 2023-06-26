@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /workspaces/effective-scala/wikigraph/wikigraph/src/main/scala/wikigraph/Async.scala:82:25 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m82 |[0m        [36mcakeDough[0m => bake(cakeDough)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                     ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                     Found:    concurrent.Future[Cake][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                     Required: Cake[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

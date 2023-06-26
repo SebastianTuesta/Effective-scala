@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /workspaces/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala:124:23 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m124 |[0m        bestCandidates.head[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m        ^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m        Found:    [1m[31m([0mdemocracy.Candidate[1m[31m,[0m[1m[31m [0m[1m[31mSeq[0m[1m[31m[[0m[1m[31mdemocracy[0m[1m[31m.[0m[1m[31mGrade[0m[1m[31m][0m[1m[31m)[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m        Required: democracy.Candidate[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

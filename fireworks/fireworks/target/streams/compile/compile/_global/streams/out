@@ -1,0 +1,26 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E040] Syntax Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:40:0 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m40 |[0mend Firework[0m
+[0m[[0m[31merror[0m] [0m[0m   |[31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |'=>' expected, but 'end' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E040] Syntax Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:282:0 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m282 |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |[31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |unindent expected, but eof found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:21:25 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m21 |[0m  [33mdef[0m [36minit[0m(): [35mFirework[0m = Waiting.init()[0m
+[0m[[0m[31merror[0m] [0m[0m   |                         [31m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                         Not found: Waiting[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:38:16 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      [33mcase[0m Done ==> Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |                [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                Not found: ==>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:38:11 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      [33mcase[0m Done ==> Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |           [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |           Not found: Done[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /workspaces/fireworks/fireworks/src/main/scala/fireworks/Fireworks.scala:38:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      [33mcase[0m Done ==> Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    Not found: Done[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for munit.Framework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(wikigraph.WikigraphSuite, sbt.ForkMain$SubclassFingerscan@7de26db8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 18 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(wikigraph.AsyncSuite, sbt.ForkMain$SubclassFingerscan@1175e2db, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 10 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for munit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 28, Failed 0, Errors 0, Passed 28[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph.AsyncSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikigraph.WikigraphSuite[0m
